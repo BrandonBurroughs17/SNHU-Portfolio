@@ -44,7 +44,13 @@ This portfolio is designed to document my progress and showcase my technical and
 
 ## Reflection
 
-My time at SNHU so far has taught me not just how to code, but how to think like a developer. In CS 210, I learned how to write efficient, well-documented code and solve problems logically using C++. In CS 250, I gained hands-on experience with Agile and Scrum practices, learning the importance of teamwork, iteration, and continuous improvement. This portfolio will continue to grow as I complete new courses and build on these foundations toward a career in software engineering.
+My time at SNHU has taught me not just how to code, but how to think like a developer. In **CS 210**, I learned how to write efficient, well-structured code and approach problems logically using C++. In **CS 250**, I gained hands-on experience with Agile and Scrum, learning the importance of iteration, collaboration, and continuous improvement throughout the development lifecycle.  
+
+**CS 255** strengthened my ability to analyze systems at a higher level. Through requirements gathering, UML modeling, and system design documentation, I learned how to break down a business problem, identify user needs, and translate them into a clear technical solution. This course helped bridge the gap between understanding *what* software should do and *how* to design it effectively before development begins.
+
+**CS 319** expanded this foundation by shifting my perspective toward user-centered design. Through wireframing, accessibility evaluation, and usability analysis, I saw how interface decisions directly influence clarity, user confidence, and overall product success—whether designing for constrained embedded systems or scalable cloud-based platforms.
+
+As I continue progressing through the program, this portfolio will grow with new projects, improved techniques, and deeper understanding. My goal is to combine thoughtful design with strong technical skill, building software that is functional, intuitive, and meaningful for its users. Every course adds a new layer to that vision, and this portfolio reflects my journey toward becoming a well-rounded software engineer.
 
 ---
 
