@@ -10,7 +10,8 @@ Welcome to my Southern New Hampshire University Computer Science portfolio. This
 - **main** – Overview of my portfolio and reflection on my overall learning journey.
 - **CS210** – Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
 - **CS250** – Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
-
+- **CS255** – System Analysis and Design: Features my Business Requirements Document and System Design Document for the DriverPass project. Demonstrates my ability to gather requirements, model system behavior, create UML diagrams, and design solutions based on user and business needs.
+- **CS319** – UI/UX Design and Development: Showcases my ability to design intuitive and user-centered interfaces. Includes wireframes, prototypes, accessibility considerations, and explanations of design decisions grounded in usability principles.
 Additional branches will be added as I progress through the program.
 
 ---
