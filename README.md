@@ -1,52 +1,27 @@
+============================================================
 
-# SNHU Computer Science Portfolio
+DriverPass Project Reflection – CS 255
 
-Welcome to my Southern New Hampshire University Computer Science portfolio. This repository showcases my coursework and growth throughout the Computer Science program. Each branch in this repository represents a specific course and contains projects, reflections, and artifacts that demonstrate the skills I’ve developed so far as a software developer.
+============================================================
 
----
+Project Summary
 
-## Repository Structure
+The DriverPass project involved designing a complete system for a client who wanted to improve how students prepare for their DMV driving exams. The client, DriverPass, needed an online and administrative platform that allowed students to purchase training packages, schedule driving lessons, take online practice tests, and track their overall progress. They also needed features for staff members, instructors, IT administrators, and management. My work required gathering requirements, understanding business processes, and creating system models that accurately reflected the needs of each user group.
 
-- **main** – Overview of my portfolio and reflection on my overall learning journey.
-- **CS210** – Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
-- **CS250** – Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
+What I Did Well
 
-Additional branches will be added as I progress through the program.
+I did particularly well at identifying and organizing the system’s functional and nonfunctional requirements. I was able to clearly define user roles, system behaviors, and the interactions between different parts of the system. Another strength was mapping out realistic workflows that aligned with how DriverPass needed the system to operate in real-world use. I also stayed consistent in applying structure and clarity throughout both my business requirements and system design documents.
 
----
+What I Would Revise and Improve
 
-## Navigation
+If I could revise one part of my work, I would focus on refining the system diagrams to increase their clarity and visual cohesion. Even though they were accurate, some diagrams could be made more readable by grouping related use cases more tightly or improving spacing. A cleaner layout would make the design easier for future developers or stakeholders to interpret quickly.
 
-To view individual course work:
-1. Click the **branch dropdown menu** near the top left of this page (it usually says `main`).
-2. Select the branch for the course you want to view (for example, `CS210` or `CS250`).
-3. Each course branch includes its own README file explaining the projects and what I learned from them.
+Interpreting and Implementing User Needs
 
-You can always return to the **main** branch to see the overall portfolio overview.
+I interpreted the user’s needs by carefully analyzing the interview details and identifying what each user type needed the system to accomplish. I translated those needs into specific requirements, functional behaviors, and design decisions. Considering user needs is critical because systems must be not only technically functional but also intuitive and aligned with real workflows. Designing without fully understanding the users leads to confusion, inefficiency, and ultimately a system that fails to solve the original problem.
 
----
+My Approach to Designing Software
 
-## About This Portfolio
+My approach to designing software begins with understanding the problem space and gathering clear requirements from stakeholders. I use structured analysis, use case modeling, and iterative refinement to ensure the system design matches what the client truly needs. Going forward, I plan to rely even more on visual modeling, user stories, and early validation with stakeholders. These techniques help uncover missing requirements early and ensure a smoother transition from design to development.
 
-This portfolio is designed to document my progress and showcase my technical and professional growth in software development. Each artifact represents real-world programming and development practices I’ve learned through SNHU’s curriculum. I use this repository to track my evolution as a developer and to demonstrate my abilities to future employers.
-
----
-
-## Technologies and Tools
-
-- **Languages:** C++, Java, Python, SQL  
-- **Tools and Environments:** Visual Studio, Eclipse, Git/GitHub  
-- **Methodologies:** Agile, Scrum, SDLC  
-- **Practices:** Object-Oriented Programming, File I/O, Debugging, Version Control
-
----
-
-## Reflection
-
-My time at SNHU so far has taught me not just how to code, but how to think like a developer. In CS 210, I learned how to write efficient, well-documented code and solve problems logically using C++. In CS 250, I gained hands-on experience with Agile and Scrum practices, learning the importance of teamwork, iteration, and continuous improvement. This portfolio will continue to grow as I complete new courses and build on these foundations toward a career in software engineering.
-
----
-
-**Author:** Brandon Burroughs  
-**Program:** B.S. in Computer Science – Software Engineering Concentration  
-**Institution:** Southern New Hampshire University  
+============================================================
