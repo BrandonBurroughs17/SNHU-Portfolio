@@ -1,27 +1,36 @@
-============================================================
+# CS255 – System Analysis & Design (DriverPass Project)  
+### Business Requirements & System Design Portfolio Submission – Module Eight Journal
 
-DriverPass Project Reflection – CS 255
+This branch contains my work for **CS 255: System Analysis and Design**, including the **Business Requirements Document** (Project One) and the **System Design Document** (Project Two). These artifacts demonstrate my ability to gather requirements from a client, analyze system needs, design system components, and document system behavior using UML.
 
-============================================================
+---
 
-Project Summary
+## Project Artifacts Included
 
-The DriverPass project involved designing a complete system for a client who wanted to improve how students prepare for their DMV driving exams. The client, DriverPass, needed an online and administrative platform that allowed students to purchase training packages, schedule driving lessons, take online practice tests, and track their overall progress. They also needed features for staff members, instructors, IT administrators, and management. My work required gathering requirements, understanding business processes, and creating system models that accurately reflected the needs of each user group.
+- **Business Requirements Document** (`DriverPass_Business_Requirements.docx`)
+- **System Design Document** (`DriverPass_System_Design.docx`)
+- **Module Eight Journal Reflection** (below)
 
-What I Did Well
+---
 
-I did particularly well at identifying and organizing the system’s functional and nonfunctional requirements. I was able to clearly define user roles, system behaviors, and the interactions between different parts of the system. Another strength was mapping out realistic workflows that aligned with how DriverPass needed the system to operate in real-world use. I also stayed consistent in applying structure and clarity throughout both my business requirements and system design documents.
+# Module Eight Journal Reflection
 
-What I Would Revise and Improve
+### 1. Brief summary of the DriverPass project
+The DriverPass project focused on designing a system that helps students prepare for their DMV driving exams. The client needed an online platform where students could schedule lessons, take practice tests, purchase training packages, and track their progress. Staff members, instructors, and administrators also required tools to manage appointments, accounts, and system settings. My role was to translate these needs into clear requirements and system design documentation.
 
-If I could revise one part of my work, I would focus on refining the system diagrams to increase their clarity and visual cohesion. Even though they were accurate, some diagrams could be made more readable by grouping related use cases more tightly or improving spacing. A cleaner layout would make the design easier for future developers or stakeholders to interpret quickly.
+### 2. What I did particularly well
+I excelled at identifying different system users and translating their needs into organized, structured requirements. I ensured each user role—customer, secretary, instructor, admin, and management—had clearly defined functionality. My documentation was thorough and easy to follow, providing a solid foundation for designing the system.
 
-Interpreting and Implementing User Needs
+### 3. What I would revise and how I would improve it
+If I could revise one part of my work, I would refine the visual clarity of my UML diagrams. While the content and relationships were correct, improving spacing, grouping, and alignment would enhance readability. A visually cleaner diagram would help stakeholders understand relationships and system structure more quickly.
 
-I interpreted the user’s needs by carefully analyzing the interview details and identifying what each user type needed the system to accomplish. I translated those needs into specific requirements, functional behaviors, and design decisions. Considering user needs is critical because systems must be not only technically functional but also intuitive and aligned with real workflows. Designing without fully understanding the users leads to confusion, inefficiency, and ultimately a system that fails to solve the original problem.
+### 4. How I interpreted user needs and why it matters
+I interpreted user needs by analyzing the responsibilities of each user and mapping them to appropriate system behaviors. This ensured the design was realistic and aligned with actual workflows. Understanding user needs is essential because a system must be intuitive, functional, and directly supportive of the tasks users perform. Designing without user-centered thinking leads to solutions that fail to solve real problems.
 
-My Approach to Designing Software
+### 5. My approach to designing software & future strategies
+My design approach begins with understanding the problem domain and gathering accurate requirements. I use techniques such as use case modeling, process analysis, and iterative refinement to produce clear system documentation. In the future, I plan to incorporate more user stories, early prototyping, and frequent feedback loops to ensure accuracy and usability throughout the design process.
 
-My approach to designing software begins with understanding the problem space and gathering clear requirements from stakeholders. I use structured analysis, use case modeling, and iterative refinement to ensure the system design matches what the client truly needs. Going forward, I plan to rely even more on visual modeling, user stories, and early validation with stakeholders. These techniques help uncover missing requirements early and ensure a smoother transition from design to development.
+---
 
-============================================================
+
+My approach to software design begins with clear requirement gathering and understanding the problem domain. I rely on techniques like use case modeling, process analysis, and iterative refinement to produce accurate system documentation. In future projects, I plan to use strategies such as user stories, early prototyping, and continuous stakeholder feedback to improve accuracy and reduce design gaps before development begins.
