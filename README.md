@@ -10,7 +10,5 @@ Gothic shrine cathedral environment built using C++ and OpenGL.
 - Modular object construction
 - Custom camera controls
 - Textured and material-based rendering
-- Randomized shrine candle placement
-- Glass reliquary dome
 
 Author: Brandon Burroughs
