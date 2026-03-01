@@ -1,59 +1,50 @@
+# CS 305 – Software Security
+## Artemis Financial Vulnerability Assessment
 
-# SNHU Computer Science Portfolio
+## Overview
 
-Welcome to my Southern New Hampshire University Computer Science portfolio. This repository showcases my coursework and growth throughout the Computer Science program. Each branch in this repository represents a specific course and contains projects, reflections, and artifacts that demonstrate the skills I’ve developed so far as a software developer.
+In CS 305, I completed a vulnerability assessment for Artemis Financial, a consulting company that develops individualized financial plans including savings, retirement, investments, and insurance services. The company wanted to modernize its public web application while ensuring sensitive client financial data remained secure.
 
----
+My role was to analyze the software for vulnerabilities and recommend mitigation strategies prior to further development.
 
-## Repository Structure
+## Client Requirements
 
-- **main** – Overview of my portfolio and reflection on my overall learning journey.
-- **CS210** – Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
-- **CS250** – Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
-- **CS255** – System Analysis and Design: Features my Business Requirements Document and System Design Document for the DriverPass project. Demonstrates my ability to gather requirements, model system behavior, create UML diagrams, and design solutions based on user and business needs.
-- **CS319** – UI/UX Design and Development: Showcases my ability to design intuitive and user-centered interfaces. Includes wireframes, prototypes, accessibility considerations, and explanations of design decisions grounded in usability principles.
-Additional branches will be added as I progress through the program.
+### Security Goals
 
----
+Artemis Financial needed to protect financial and personal client data, identify vulnerabilities in third-party dependencies, strengthen overall application security, and align development practices with modern security standards. The primary objective was reducing exposure to known risks before expanding the system.
 
-## Navigation
+## Vulnerability Assessment
 
-To view individual course work:
-1. Click the **branch dropdown menu** near the top left of this page (it usually says `main`).
-2. Select the branch for the course you want to view (for example, `CS210` or `CS250`).
-3. Each course branch includes its own README file explaining the projects and what I learned from them.
+### Strengths
 
-You can always return to the **main** branch to see the overall portfolio overview.
+I analyzed dependency-check reports, reviewed CVE entries, and documented vulnerabilities along with appropriate mitigation strategies. A key strength in this project was translating technical findings into practical business risk, ensuring recommendations were clear and prioritized effectively.
 
----
+Secure coding is essential in financial applications because it protects customer trust, reduces liability, and supports long-term organizational stability.
 
-## About This Portfolio
+## Challenges and Growth
 
-This portfolio is designed to document my progress and showcase my technical and professional growth in software development. Each artifact represents real-world programming and development practices I’ve learned through SNHU’s curriculum. I use this repository to track my evolution as a developer and to demonstrate my abilities to future employers.
+### Key Learning Experience
 
----
+Interpreting vulnerability reports and understanding CVE severity levels was initially challenging. However, this process strengthened my ability to evaluate risk exposure and prioritize remediation efforts.
 
-## Technologies and Tools
+This course reinforced that security must be integrated into the software development lifecycle rather than treated as an afterthought.
 
-- **Languages:** C++, Java, Python, SQL  
-- **Tools and Environments:** Visual Studio, Eclipse, Git/GitHub  
-- **Methodologies:** Agile, Scrum, SDLC  
-- **Practices:** Object-Oriented Programming, File I/O, Debugging, Version Control
+## Security Improvements
 
----
+### Mitigation Approach
 
-## Reflection
+To improve security, I recommended updating vulnerable dependencies, implementing HTTPS for secure communication, applying SHA-256 hashing for integrity verification, and following OWASP secure coding standards.
 
-My time at SNHU has taught me not just how to code, but how to think like a developer. In **CS 210**, I learned how to write efficient, well-structured code and approach problems logically using C++. In **CS 250**, I gained hands-on experience with Agile and Scrum, learning the importance of iteration, collaboration, and continuous improvement throughout the development lifecycle.  
+In future projects, I would expand vulnerability assessment through static analysis tools, dynamic testing, automated CI/CD scanning, and penetration testing methods.
 
-**CS 255** strengthened my ability to analyze systems at a higher level. Through requirements gathering, UML modeling, and system design documentation, I learned how to break down a business problem, identify user needs, and translate them into a clear technical solution. This course helped bridge the gap between understanding *what* software should do and *how* to design it effectively before development begins.
+## Tools and Portfolio Value
 
-**CS 319** expanded this foundation by shifting my perspective toward user-centered design. Through wireframing, accessibility evaluation, and usability analysis, I saw how interface decisions directly influence clarity, user confidence, and overall product success—whether designing for constrained embedded systems or scalable cloud-based platforms.
+### Tools Used
 
-As I continue progressing through the program, this portfolio will grow with new projects, improved techniques, and deeper understanding. My goal is to combine thoughtful design with strong technical skill, building software that is functional, intuitive, and meaningful for its users. Every course adds a new layer to that vision, and this portfolio reflects my journey toward becoming a well-rounded software engineer.
+Maven Dependency-Check  
+CVE Databases  
+OWASP Security Guidance  
 
----
+### Why This Matters
 
-**Author:** Brandon Burroughs  
-**Program:** B.S. in Computer Science – Software Engineering Concentration  
-**Institution:** Southern New Hampshire University  
+This artifact demonstrates my ability to conduct structured vulnerability assessments, interpret security reports, and apply layered defense strategies. It reflects my commitment to building secure, resilient software as I continue developing as a professional software engineer.
