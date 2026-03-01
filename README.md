@@ -44,3 +44,13 @@ Computer science supports my long-term goals by giving me the technical foundati
 ## Portfolio Value
 
 This project demonstrates my ability to design and implement a fully realized 3D environment, apply iterative development strategies, and document technical decisions clearly. It reflects my growth in both structured software design and practical OpenGL development.
+
+## 3D Scene Project Files
+
+The full 3D Scene project exceeds GitHub’s web upload file size limit. 
+To preserve the complete project structure, the ZIP folder is hosted externally.
+
+Download the full project here:
+(https://drive.google.com/file/d/1BaJSzT4A72wscpnebs5e6pbEfqAZqkXg/view?usp=drive_link)
+
+All design documentation is included directly in this repository.
