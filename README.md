@@ -20,6 +20,4 @@ Computer scientists design and build systems that help people process, analyze, 
 
 For a company like Grazioso Salvare, this type of system can improve efficiency by reducing the time it takes to find relevant information and make decisions. Instead of manually searching through records, users can interact with a dashboard that provides insights instantly. This can lead to better resource allocation, improved operations, and more informed decision-making overall.
 
-## Repository Link
 
-https://github.com/BrandonBurroughs17/SNHU-Portfolio
