@@ -1,68 +1,30 @@
-# SNHU Computer Science Portfolio
+# CS 360 – Mobile App Development Reflection
 
-Welcome to my Southern New Hampshire University Computer Science portfolio. This repository showcases my coursework and growth throughout the Computer Science program. Each branch in this repository represents a specific course and contains projects, reflections, and artifacts that demonstrate the skills I’ve developed so far as a software developer.
+## Overview
+This project focused on developing a functional mobile application that allows users to manage inventory items. The primary goal of the app was to provide a simple and efficient way for users to log in, add items, track quantities, and view their data in a clean interface. The app was designed to address the need for a lightweight inventory management solution that is easy to use and does not require complex setup or external tools.
 
----
+## User Needs and Goals
+To support user needs, the app included several key screens and features. A login screen was necessary to allow users to create an account or access existing data. The main inventory screen allowed users to input item names and quantities, view a list of stored items, and interact with the data through a RecyclerView. Additional functionality included persistent storage using SQLite and SMS permission handling for notifications.
 
-## Repository Structure
+The UI design focused on simplicity and clarity, using straightforward layouts and clearly labeled input fields so users could quickly understand how to interact with the app. Keeping the interface minimal helped reduce confusion and made the app more user-friendly.
 
-- **main** – Overview of my portfolio and reflection on my overall learning journey.
-- **CS210** – Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
-- **CS250** – Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
-- **CS255** – System Analysis and Design: Features my Business Requirements Document and System Design Document for the DriverPass project. Demonstrates my ability to gather requirements, model system behavior, create UML diagrams, and design solutions based on user and business needs.
-- **CS305** – Software Security: Focused on vulnerability assessment, secure coding practices, and dependency analysis. Includes the Artemis Financial Vulnerability Assessment project, which demonstrates my ability to identify software risks and recommend layered mitigation strategies aligned with industry standards.
-- **CS319** – UI/UX Design and Development: Showcases my ability to design intuitive and user-centered interfaces. Includes wireframes, prototypes, accessibility considerations, and explanations of design decisions grounded in usability principles.
-- **CS320** – Software Test, Automation, and Quality Assurance: Demonstrates my ability to create automated unit tests using Java and JUnit, validate program requirements, and apply structured testing strategies to ensure reliability and functionality.
-- **CS330** – Computational Graphics and Visualization: Features a fully developed 3D scene built using C++ and OpenGL. Demonstrates object modeling, transformations, texture mapping, lighting configuration, camera control, and iterative development practices in a visual computing environment.
+## Development Approach
+When approaching the coding process, I focused on breaking the application into smaller components instead of trying to build everything at once. I started with the database setup, then implemented login functionality, and finally worked on displaying and interacting with data using a RecyclerView.
 
-Additional branches will be added as I progress through the program.
+This step-by-step approach made it easier to isolate and fix issues as they came up. I also relied heavily on debugging and testing throughout development, especially when dealing with mismatches between XML layouts and Java code. This approach can be applied in future projects by maintaining a structured workflow and building features incrementally.
 
----
+## Testing and Validation
+Testing was done continuously during development by running the application on a device and verifying each feature as it was implemented. I tested login functionality, database persistence, item creation, and UI updates to ensure everything worked as expected.
 
-## Navigation
+This process is important because it helps catch errors early and ensures that each part of the application functions correctly before moving on. Testing revealed several issues, particularly with UI element IDs not matching the code and layout inconsistencies, which reinforced the importance of keeping code and design aligned.
 
-To view individual course work:
-1. Click the **branch dropdown menu** near the top left of this page (it usually says `main`).
-2. Select the branch for the course you want to view (for example, `CS210` or `CS250`).
-3. Each course branch includes its own README file explaining the projects and what I learned from them.
+## Challenges and Problem Solving
+Throughout the development process, one of the main challenges was ensuring that the UI and backend logic stayed synchronized. I had to adjust my approach and carefully verify that layout IDs matched the Java code, which required attention to detail and problem-solving.
 
-You can always return to the **main** branch to see the overall portfolio overview.
+Overcoming this challenge helped improve my understanding of how Android applications connect UI components to logic.
 
----
+## Key Success
+One area where I was particularly successful was implementing the full workflow of the application, including user authentication, database integration, and dynamic data display using a RecyclerView. This demonstrated my ability to combine multiple components into a working application and reinforced my understanding of mobile app architecture.
 
-## About This Portfolio
-
-This portfolio is designed to document my progress and showcase my technical and professional growth in software development. Each artifact represents real-world programming and development practices I’ve learned through SNHU’s curriculum. I use this repository to track my evolution as a developer and to demonstrate my abilities to future employers.
-
----
-
-## Technologies and Tools
-
-- **Languages:** C++, Java, Python, SQL  
-- **Tools and Environments:** Visual Studio, Eclipse, Git/GitHub  
-- **Methodologies:** Agile, Scrum, SDLC  
-- **Practices:** Object-Oriented Programming, File I/O, Debugging, Version Control
-
----
-
-## Reflection
-
-My time at SNHU has taught me not just how to code, but how to think like a developer. In **CS 210**, I learned how to write efficient, well-structured code and approach problems logically using C++. In **CS 250**, I gained hands-on experience with Agile and Scrum, learning the importance of iteration, collaboration, and continuous improvement throughout the development lifecycle.  
-
-**CS 255** strengthened my ability to analyze systems at a higher level. Through requirements gathering, UML modeling, and system design documentation, I learned how to break down a business problem, identify user needs, and translate them into a clear technical solution. This course helped bridge the gap between understanding what software should do and how to design it effectively before development begins.
-
-**CS 305** introduced me to structured vulnerability assessment and secure software development practices. By analyzing dependency reports and CVE data, I developed a stronger understanding of layered security, risk prioritization, and the importance of integrating security into the development lifecycle.
-
-**CS 319** expanded this foundation by shifting my perspective toward user-centered design. Through wireframing, accessibility evaluation, and usability analysis, I saw how interface decisions directly influence clarity, user confidence, and overall product success.
-
-**CS 320** reinforced the importance of reliability and validation in software engineering. By developing automated unit tests and applying quality assurance strategies, I learned how to verify functionality against requirements and ensure software behaves predictably under defined constraints.
-
-**CS 330** strengthened my understanding of computational graphics and spatial reasoning. Building a fully navigable 3D scene using C++ and OpenGL required careful attention to transformations, texture mapping, lighting, and camera systems. This course enhanced both my mathematical thinking and my ability to design and iterate on complex visual systems.
-
-As I continue progressing through the program, this portfolio will grow with new projects, improved techniques, and deeper understanding. My goal is to combine thoughtful design with strong technical skill, building software that is functional, intuitive, secure, and meaningful for its users. Every course adds a new layer to that vision, and this portfolio reflects my journey toward becoming a well-rounded software engineer.
-
----
-
-**Author:** Brandon Burroughs  
-**Program:** B.S. in Computer Science – Software Engineering Concentration  
-**Institution:** Southern New Hampshire University
+## Conclusion
+Overall, this project helped me develop a more structured and user-focused approach to mobile app development. It also improved my ability to troubleshoot issues and build functional applications that meet user needs.
