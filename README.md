@@ -1,68 +1,25 @@
-# SNHU Computer Science Portfolio
+# CS 340 Portfolio Reflection
 
-Welcome to my Southern New Hampshire University Computer Science portfolio. This repository showcases my coursework and growth throughout the Computer Science program. Each branch in this repository represents a specific course and contains projects, reflections, and artifacts that demonstrate the skills I’ve developed so far as a software developer.
+## How do you write programs that are maintainable, readable, and adaptable?
 
----
+Writing maintainable and readable code starts with organization and clarity. In this course, I focused on separating concerns by creating a dedicated CRUD Python module in Project One, which I later reused in Project Two for the dashboard. This made the code easier to manage because the database logic was isolated from the user interface and visualization logic. Instead of rewriting database queries in multiple places, I could simply call functions from the CRUD module, which improved both readability and efficiency.
 
-## Repository Structure
+Using this approach also made the program more adaptable. If the database structure or queries needed to change, I only had to update the CRUD module instead of modifying the entire application. In the future, I could reuse this same module structure in other projects that require database interaction, such as web applications, APIs, or data analytics dashboards. This modular design is a practical way to scale projects and keep code clean as complexity increases.
 
-- **main** – Overview of my portfolio and reflection on my overall learning journey.
-- **CS210** – Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
-- **CS250** – Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
-- **CS255** – System Analysis and Design: Features my Business Requirements Document and System Design Document for the DriverPass project. Demonstrates my ability to gather requirements, model system behavior, create UML diagrams, and design solutions based on user and business needs.
-- **CS305** – Software Security: Focused on vulnerability assessment, secure coding practices, and dependency analysis. Includes the Artemis Financial Vulnerability Assessment project, which demonstrates my ability to identify software risks and recommend layered mitigation strategies aligned with industry standards.
-- **CS319** – UI/UX Design and Development: Showcases my ability to design intuitive and user-centered interfaces. Includes wireframes, prototypes, accessibility considerations, and explanations of design decisions grounded in usability principles.
-- **CS320** – Software Test, Automation, and Quality Assurance: Demonstrates my ability to create automated unit tests using Java and JUnit, validate program requirements, and apply structured testing strategies to ensure reliability and functionality.
-- **CS330** – Computational Graphics and Visualization: Features a fully developed 3D scene built using C++ and OpenGL. Demonstrates object modeling, transformations, texture mapping, lighting configuration, camera control, and iterative development practices in a visual computing environment.
+## How do you approach a problem as a computer scientist?
 
-Additional branches will be added as I progress through the program.
+When approaching a problem, I try to break it down into smaller, manageable pieces and focus on understanding the requirements first. For this project, I started by analyzing what Grazioso Salvare needed from the database and dashboard, then worked step by step to build the backend functionality before connecting it to the frontend.
 
----
+Compared to earlier assignments in other courses, this project felt more realistic because it involved working with a real dataset and designing something that could actually be used by a client. Instead of just writing code to meet a rubric, I had to think about usability, performance, and how the data would be presented in a meaningful way.
 
-## Navigation
+In the future, I would continue using this structured approach by planning out database schemas, testing queries early, and building modular components that can be reused. I would also spend more time validating data and optimizing queries to improve performance for larger datasets.
 
-To view individual course work:
-1. Click the **branch dropdown menu** near the top left of this page (it usually says `main`).
-2. Select the branch for the course you want to view (for example, `CS210` or `CS250`).
-3. Each course branch includes its own README file explaining the projects and what I learned from them.
+## What do computer scientists do, and why does it matter?
 
-You can always return to the **main** branch to see the overall portfolio overview.
+Computer scientists design and build systems that help people process, analyze, and use data more effectively. This matters because data is a critical part of decision-making in almost every industry. In this project, the dashboard I developed allows users to quickly filter, visualize, and understand data from the animal shelter database.
 
----
+For a company like Grazioso Salvare, this type of system can improve efficiency by reducing the time it takes to find relevant information and make decisions. Instead of manually searching through records, users can interact with a dashboard that provides insights instantly. This can lead to better resource allocation, improved operations, and more informed decision-making overall.
 
-## About This Portfolio
+## Repository Link
 
-This portfolio is designed to document my progress and showcase my technical and professional growth in software development. Each artifact represents real-world programming and development practices I’ve learned through SNHU’s curriculum. I use this repository to track my evolution as a developer and to demonstrate my abilities to future employers.
-
----
-
-## Technologies and Tools
-
-- **Languages:** C++, Java, Python, SQL  
-- **Tools and Environments:** Visual Studio, Eclipse, Git/GitHub  
-- **Methodologies:** Agile, Scrum, SDLC  
-- **Practices:** Object-Oriented Programming, File I/O, Debugging, Version Control
-
----
-
-## Reflection
-
-My time at SNHU has taught me not just how to code, but how to think like a developer. In **CS 210**, I learned how to write efficient, well-structured code and approach problems logically using C++. In **CS 250**, I gained hands-on experience with Agile and Scrum, learning the importance of iteration, collaboration, and continuous improvement throughout the development lifecycle.  
-
-**CS 255** strengthened my ability to analyze systems at a higher level. Through requirements gathering, UML modeling, and system design documentation, I learned how to break down a business problem, identify user needs, and translate them into a clear technical solution. This course helped bridge the gap between understanding what software should do and how to design it effectively before development begins.
-
-**CS 305** introduced me to structured vulnerability assessment and secure software development practices. By analyzing dependency reports and CVE data, I developed a stronger understanding of layered security, risk prioritization, and the importance of integrating security into the development lifecycle.
-
-**CS 319** expanded this foundation by shifting my perspective toward user-centered design. Through wireframing, accessibility evaluation, and usability analysis, I saw how interface decisions directly influence clarity, user confidence, and overall product success.
-
-**CS 320** reinforced the importance of reliability and validation in software engineering. By developing automated unit tests and applying quality assurance strategies, I learned how to verify functionality against requirements and ensure software behaves predictably under defined constraints.
-
-**CS 330** strengthened my understanding of computational graphics and spatial reasoning. Building a fully navigable 3D scene using C++ and OpenGL required careful attention to transformations, texture mapping, lighting, and camera systems. This course enhanced both my mathematical thinking and my ability to design and iterate on complex visual systems.
-
-As I continue progressing through the program, this portfolio will grow with new projects, improved techniques, and deeper understanding. My goal is to combine thoughtful design with strong technical skill, building software that is functional, intuitive, secure, and meaningful for its users. Every course adds a new layer to that vision, and this portfolio reflects my journey toward becoming a well-rounded software engineer.
-
----
-
-**Author:** Brandon Burroughs  
-**Program:** B.S. in Computer Science – Software Engineering Concentration  
-**Institution:** Southern New Hampshire University
+https://github.com/BrandonBurroughs17/SNHU-Portfolio
