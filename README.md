@@ -6,17 +6,20 @@ Welcome to my Southern New Hampshire University Computer Science portfolio. This
 
 ## Repository Structure
 
-- **main** – Overview of my portfolio and reflection on my overall learning journey.
-- **CS210** – Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
-- **CS250** – Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
-- **CS255** – System Analysis and Design: Features my Business Requirements Document and System Design Document for the DriverPass project. Demonstrates my ability to gather requirements, model system behavior, create UML diagrams, and design solutions based on user and business needs.
-- **CS300** – Data Structures and Algorithms: Focused on implementing and analyzing data structures such as vectors and binary search trees. Includes projects that demonstrate sorting algorithms, efficient data storage, and performance considerations related to runtime and memory usage.
-- **CS305** – Software Security: Focused on vulnerability assessment, secure coding practices, and dependency analysis. Includes the Artemis Financial Vulnerability Assessment project, which demonstrates my ability to identify software risks and recommend layered mitigation strategies aligned with industry standards.
-- **CS319** – UI/UX Design and Development: Showcases my ability to design intuitive and user-centered interfaces. Includes wireframes, prototypes, accessibility considerations, and explanations of design decisions grounded in usability principles.
-- **CS320** – Software Test, Automation, and Quality Assurance: Demonstrates my ability to create automated unit tests using Java and JUnit, validate program requirements, and apply structured testing strategies to ensure reliability and functionality.
-- **CS330** – Computational Graphics and Visualization: Features a fully developed 3D scene built using C++ and OpenGL. Demonstrates object modeling, transformations, texture mapping, lighting configuration, camera control, and iterative development practices in a visual computing environment.
-- **CS340** – Client/Server Development: Focused on database integration and full-stack data interaction using MongoDB and Python. Includes CRUD operations, database queries, and a dashboard application that visualizes and interacts with stored data.
-- **CS360** – Mobile Architecture and Programming: Features a fully functional Android application developed using Java and Android Studio. Demonstrates user authentication, SQLite database integration, RecyclerView implementation, and permission handling within a mobile app environment.
+* **main** - Overview of my portfolio and reflection on my overall learning journey.
+* **CS210** - Programming Languages: Focused on C++ program design, file I/O, and problem-solving. Includes projects such as Airgead Banking and Corner Grocer, which demonstrate practical programming and data analysis skills.
+* **CS230** - Operating Platforms: Focused on designing and evaluating software for multiple operating systems and distributed environments. Includes software design documentation, platform evaluations, and a Java prototype demonstrating object-oriented programming principles and design patterns used to support a scalable, cross-platform application.
+* **CS250** - Software Development Lifecycle: Highlights my experience using Agile and Scrum methodologies, including sprint reviews, retrospectives, and software development planning.
+* **CS255** - System Analysis and Design: Features my Business Requirements Document and System Design Document for the DriverPass project. Demonstrates my ability to gather requirements, model system behavior, create UML diagrams, and design solutions based on user and business needs.
+* **CS300** - Data Structures and Algorithms: Focused on implementing and analyzing data structures such as vectors and binary search trees. Includes projects that demonstrate sorting algorithms, efficient data storage, and performance considerations related to runtime and memory usage.
+* **CS305** - Software Security: Focused on vulnerability assessment, secure coding practices, and dependency analysis. Includes the Artemis Financial Vulnerability Assessment project, which demonstrates my ability to identify software risks and recommend layered mitigation strategies aligned with industry standards.
+* **CS319** - UI/UX Design and Development: Showcases my ability to design intuitive and user-centered interfaces. Includes wireframes, prototypes, accessibility considerations, and explanations of design decisions grounded in usability principles.
+* **CS320** - Software Test, Automation, and Quality Assurance: Demonstrates my ability to create automated unit tests using Java and JUnit, validate program requirements, and apply structured testing strategies to ensure reliability and functionality.
+* **CS330** - Computational Graphics and Visualization: Features a fully developed 3D scene built using C++ and OpenGL. Demonstrates object modeling, transformations, texture mapping, lighting configuration, camera control, and iterative development practices in a visual computing environment.
+* **CS340** - Client/Server Development: Focused on database integration and full-stack data interaction using MongoDB and Python. Includes CRUD operations, database queries, and a dashboard application that visualizes and interacts with stored data.
+* **CS360** - Mobile Architecture and Programming: Features a fully functional Android application developed using Java and Android Studio. Demonstrates user authentication, SQLite database integration, RecyclerView implementation, and permission handling within a mobile app environment.
+* **CS370** - Current/Emerging Trends in Computer Science: Focused on artificial intelligence, machine learning, neural networks, and reinforcement learning. Includes projects implementing image classification with neural networks and a deep Q-learning intelligent agent that learns to navigate a treasure maze through experience and reward-based training.
+* **CS465** - Full Stack Development: Features the Travlr Getaways full stack web application built with the MEAN stack. Demonstrates frontend and backend development using MongoDB, Express, Angular, Node.js, RESTful API endpoints, JSON data exchange, authentication, and an administrator-facing single-page application.
 
 Additional branches will be added as I progress through the program.
 
@@ -25,8 +28,9 @@ Additional branches will be added as I progress through the program.
 ## Navigation
 
 To view individual course work:
-1. Click the **branch dropdown menu** near the top left of this page (it usually says `main`).
-2. Select the branch for the course you want to view (for example, `CS210` or `CS250`).
+
+1. Click the **branch dropdown menu** near the top left of this page. It usually says `main`.
+2. Select the branch for the course you want to view, such as `CS210`, `CS250`, or `CS465`.
 3. Each course branch includes its own README file explaining the projects and what I learned from them.
 
 You can always return to the **main** branch to see the overall portfolio overview.
@@ -41,16 +45,19 @@ This portfolio is designed to document my progress and showcase my technical and
 
 ## Technologies and Tools
 
-- **Languages:** C++, Java, Python, SQL  
-- **Tools and Environments:** Visual Studio, Eclipse, Android Studio, MongoDB, Git/GitHub  
-- **Methodologies:** Agile, Scrum, SDLC  
-- **Practices:** Object-Oriented Programming, Data Structures, Debugging, Database Integration, Version Control
+* **Languages:** C++, Java, Python, SQL, JavaScript, TypeScript
+* **AI & Machine Learning:** TensorFlow, Keras, NumPy, Reinforcement Learning, Deep Q-Learning, Neural Networks
+* **Tools and Environments:** Visual Studio, Eclipse, Android Studio, MongoDB, Git/GitHub, Node.js, Express, Angular, Postman
+* **Methodologies:** Agile, Scrum, SDLC
+* **Practices:** Object-Oriented Programming, Data Structures, Debugging, Database Integration, Version Control, RESTful API Development, Full Stack Development, Software Testing
 
 ---
 
 ## Reflection
 
-My time at SNHU has taught me not just how to code, but how to think like a developer. In **CS 210**, I learned how to write efficient, well-structured code and approach problems logically using C++. In **CS 250**, I gained hands-on experience with Agile and Scrum, learning the importance of iteration, collaboration, and continuous improvement throughout the development lifecycle.  
+My time at SNHU has taught me not just how to code, but how to think like a developer. In **CS 210**, I learned how to write efficient, well-structured code and approach problems logically using C++. In **CS 250**, I gained hands-on experience with Agile and Scrum, learning the importance of iteration, collaboration, and continuous improvement throughout the development lifecycle.
+
+**CS 230** expanded my understanding of how software design decisions are influenced by the operating platforms on which an application will run. I evaluated Windows, Linux, macOS, and mobile platforms, comparing their strengths, weaknesses, and deployment considerations for a distributed web application. I also applied object-oriented programming concepts and design patterns such as Singleton and Iterator while developing a Java prototype. This course reinforced the importance of planning software architecture around scalability, maintainability, and platform compatibility before implementation begins.
 
 **CS 255** strengthened my ability to analyze systems at a higher level. Through requirements gathering, UML modeling, and system design documentation, I learned how to break down a business problem, identify user needs, and translate them into a clear technical solution. This course helped bridge the gap between understanding what software should do and how to design it effectively before development begins.
 
@@ -66,12 +73,16 @@ In **CS 300**, I developed a strong foundation in data structures and algorithms
 
 In **CS 340**, I expanded my knowledge into database-driven applications and client/server architecture. Working with MongoDB and Python allowed me to build applications that interact with real datasets, perform CRUD operations, and visualize data through dashboards.
 
-Finally, in **CS 360**, I applied all of these skills in a full mobile development project. Building an Android application required integrating user authentication, database management, UI design, and permissions handling into a cohesive system. This course strengthened my ability to develop complete, user-focused applications from concept to implementation.
+In **CS 360**, I applied many of these skills in a full mobile development project. Building an Android application required integrating user authentication, database management, UI design, and permissions handling into a cohesive system. This course strengthened my ability to develop complete, user-focused applications from concept to implementation.
+
+In **CS 370**, I explored the foundations of artificial intelligence and machine learning through hands-on projects involving neural networks and reinforcement learning. I trained image classification models using TensorFlow and Keras, learned how supervised and reinforcement learning differ, and developed a deep Q-learning intelligent agent capable of navigating a treasure maze through trial and error. This course strengthened my understanding of how AI systems learn from data, balance exploration and exploitation, and improve decision-making over time. It also reinforced the importance of ethical AI development, including addressing concerns related to bias, transparency, privacy, and responsible use of intelligent systems.
+
+In **CS 465**, I brought together frontend development, backend development, database integration, API design, and authentication in one full stack web application. The Travlr Getaways project gave me hands-on experience with the MEAN stack, including MongoDB, Express, Angular, and Node.js. I created a customer-facing website, built an administrator single-page application, connected the frontend to RESTful API endpoints, tested requests with Postman, and implemented secure login authentication using JSON Web Tokens. This course helped me better understand how modern web applications are structured and how each layer of the stack communicates with the others.
 
 As I continue progressing through the program, this portfolio will grow with new projects, improved techniques, and deeper understanding. My goal is to combine thoughtful design with strong technical skill, building software that is functional, intuitive, secure, and meaningful for its users. Every course adds a new layer to that vision, and this portfolio reflects my journey toward becoming a well-rounded software engineer.
 
 ---
 
-**Author:** Brandon Burroughs  
-**Program:** B.S. in Computer Science – Software Engineering Concentration  
+**Author:** Brandon Burroughs
+**Program:** B.S. in Computer Science - Software Engineering Concentration
 **Institution:** Southern New Hampshire University
