@@ -165,3 +165,11 @@ The customer-facing Express site helped me understand server-rendered frontend d
 Working with MongoDB and Mongoose helped me understand how NoSQL databases fit into JavaScript-based full stack applications. Since MongoDB stores data in a document format similar to JSON, it worked well with the REST API and Angular frontend.
 
 I also gained experience testing endpoints with Postman, debugging API calls, fixing frontend and backend issues, and handling version compatibility problems. Overall, CS 465 strengthened my understanding of modern web application development and gave me practical experience with the MEAN stack.
+
+---
+
+## Project .zip
+
+Because the final project .zip file was too large to upload directly, I uploaded the completed project archive to Google Drive.
+
+Google Drive Project ZIP: https://drive.google.com/file/d/1ueUsXe2_hMCfuaPb-6x5xJAwqdOrfh0I/view?usp=drive_link
