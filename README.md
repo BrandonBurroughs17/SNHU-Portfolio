@@ -29,11 +29,3 @@ This project reinforced my understanding of data structures, loops, conditionals
 
 ### How did I make this program maintainable, readable, and adaptable?
 I used consistent naming conventions, clear comments, and modular functions to make the program easy to follow. Each function performs one clear task, which makes future changes or expansions simpler. The program can also be adapted easily by updating the input file or extending the logic for different data analysis needs.
-
----
-
-**Author:** Brandon Burroughs  
-**Course:** CS 210 – Programming Languages  
-**Program:** B.S. in Computer Science – Software Engineering Concentration  
-**Institution:** Southern New Hampshire University  
-
