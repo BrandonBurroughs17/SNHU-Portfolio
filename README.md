@@ -1,6 +1,7 @@
+
 # SNHU Computer Science Portfolio
 
-Welcome to my Southern New Hampshire University Computer Science portfolio. This repository showcases my coursework and growth throughout the Computer Science program. Each branch in this repository represents a specific course and contains projects, reflections, and artifacts that demonstrate the skills I’ve developed so far as a software developer.
+Welcome to my Southern New Hampshire University Computer Science portfolio. I completed all coursework for my Bachelor of Science in Computer Science with a concentration in Software Engineering in October 2026. This repository brings together projects, reflections, and artifacts from throughout the program, documenting the technical skills I developed and how I grew as a software developer. Each course branch highlights a different area of my education, while the main branch provides an overview of my work.
 
 ---
 
@@ -19,9 +20,11 @@ Welcome to my Southern New Hampshire University Computer Science portfolio. This
 * **CS340** - Client/Server Development: Focused on database integration and full-stack data interaction using MongoDB and Python. Includes CRUD operations, database queries, and a dashboard application that visualizes and interacts with stored data.
 * **CS360** - Mobile Architecture and Programming: Features a fully functional Android application developed using Java and Android Studio. Demonstrates user authentication, SQLite database integration, RecyclerView implementation, and permission handling within a mobile app environment.
 * **CS370** - Current/Emerging Trends in Computer Science: Focused on artificial intelligence, machine learning, neural networks, and reinforcement learning. Includes projects implementing image classification with neural networks and a deep Q-learning intelligent agent that learns to navigate a treasure maze through experience and reward-based training.
+* **CS405** - Secure Coding: Covers secure coding standards, buffer overflows, integer overflow and underflow, SQL injection, exception handling, encryption, zero trust, risk assessment, and static code analysis with Cppcheck. Includes security testing exercises and the Green Pace security policy project.
 * **CS465** - Full Stack Development: Features the Travlr Getaways full stack web application built with the MEAN stack. Demonstrates frontend and backend development using MongoDB, Express, Angular, Node.js, RESTful API endpoints, JSON data exchange, authentication, and an administrator-facing single-page application.
+* **CS499** - Computer Science Capstone: Features enhancements to my Travlr application and my final computer science ePortfolio. Demonstrates my ability to review an existing codebase, improve application functionality and authentication, troubleshoot full-stack issues, test changes, and communicate my work professionally.
 
-Additional branches will be added as I progress through the program.
+With my program coursework complete, these branches serve as a record of the projects and skills I developed throughout my degree.
 
 ---
 
@@ -39,7 +42,7 @@ You can always return to the **main** branch to see the overall portfolio overvi
 
 ## About This Portfolio
 
-This portfolio is designed to document my progress and showcase my technical and professional growth in software development. Each artifact represents real-world programming and development practices I’ve learned through SNHU’s curriculum. I use this repository to track my evolution as a developer and to demonstrate my abilities to future employers.
+This portfolio documents the work I completed during my Computer Science program and showcases my technical and professional growth in software development. The artifacts reflect programming, design, testing, and security practices I applied through SNHU's curriculum. I maintain this repository to share my work with future employers and show how my approach to solving software problems developed over time.
 
 ---
 
@@ -47,9 +50,9 @@ This portfolio is designed to document my progress and showcase my technical and
 
 * **Languages:** C++, Java, Python, SQL, JavaScript, TypeScript
 * **AI & Machine Learning:** TensorFlow, Keras, NumPy, Reinforcement Learning, Deep Q-Learning, Neural Networks
-* **Tools and Environments:** Visual Studio, Eclipse, Android Studio, MongoDB, Git/GitHub, Node.js, Express, Angular, Postman
+* **Tools and Environments:** Visual Studio, Eclipse, Android Studio, MongoDB, Git/GitHub, Node.js, Express, Angular, Postman, Cppcheck
 * **Methodologies:** Agile, Scrum, SDLC
-* **Practices:** Object-Oriented Programming, Data Structures, Debugging, Database Integration, Version Control, RESTful API Development, Full Stack Development, Software Testing
+* **Practices:** Object-Oriented Programming, Data Structures, Debugging, Database Integration, Version Control, RESTful API Development, Full Stack Development, Software Testing, Secure Coding, Static Code Analysis, Risk Assessment
 
 ---
 
@@ -77,12 +80,19 @@ In **CS 360**, I applied many of these skills in a full mobile development proje
 
 In **CS 370**, I explored the foundations of artificial intelligence and machine learning through hands-on projects involving neural networks and reinforcement learning. I trained image classification models using TensorFlow and Keras, learned how supervised and reinforcement learning differ, and developed a deep Q-learning intelligent agent capable of navigating a treasure maze through trial and error. This course strengthened my understanding of how AI systems learn from data, balance exploration and exploitation, and improve decision-making over time. It also reinforced the importance of ethical AI development, including addressing concerns related to bias, transparency, privacy, and responsible use of intelligent systems.
 
+**CS 405** changed the way I approach software security. Through exercises involving buffer overflows, integer overflow and underflow, SQL injection, encryption, and error handling, I saw how small coding mistakes can lead to serious vulnerabilities. I used static code analysis and security testing techniques to identify issues and explored how risk assessments, zero trust principles, and documented policies can strengthen a development process. My Green Pace security policy work reinforced that security should be built into software from the beginning rather than added at the end.
+
 In **CS 465**, I brought together frontend development, backend development, database integration, API design, and authentication in one full stack web application. The Travlr Getaways project gave me hands-on experience with the MEAN stack, including MongoDB, Express, Angular, and Node.js. I created a customer-facing website, built an administrator single-page application, connected the frontend to RESTful API endpoints, tested requests with Postman, and implemented secure login authentication using JSON Web Tokens. This course helped me better understand how modern web applications are structured and how each layer of the stack communicates with the others.
 
-As I continue progressing through the program, this portfolio will grow with new projects, improved techniques, and deeper understanding. My goal is to combine thoughtful design with strong technical skill, building software that is functional, intuitive, secure, and meaningful for its users. Every course adds a new layer to that vision, and this portfolio reflects my journey toward becoming a well-rounded software engineer.
+**CS 499** brought everything together in my final capstone and ePortfolio. Returning to my Travlr application gave me the opportunity to review work I had previously completed and improve it instead of starting from scratch. I worked through application functionality, API routes, administrator authentication, and testing while documenting why the changes mattered. The experience strengthened my ability to troubleshoot an existing codebase, build on earlier work, and explain technical decisions in a way that reflects professional software development.
+
+Completing the Computer Science program is a major milestone for me. Across these courses, I progressed from learning programming fundamentals to developing full-stack applications, working with databases, exploring machine learning, and considering security at every stage of development. More importantly, I learned how to approach unfamiliar problems, research solutions, test my work, and improve what I have built.
+
+My next goal is to apply these skills professionally in software engineering, particularly embedded software, where I can combine programming with my hands-on research and development experience working with electronics and hardware. This portfolio represents the work I completed to reach this point and the foundation I will continue building on throughout my engineering career.
 
 ---
 
-**Author:** Brandon Burroughs
-**Program:** B.S. in Computer Science - Software Engineering Concentration
-**Institution:** Southern New Hampshire University
+**Author:** Brandon Burroughs  
+**Program:** B.S. in Computer Science - Software Engineering Concentration  
+**Institution:** Southern New Hampshire University  
+**Status:** All program coursework completed, October 2026
